@@ -1,0 +1,2 @@
+127.0.0.1 - - [28/Jul/2023:16:38:44 +0800] "GET /nacos/v1/ns/operator/metrics?app=unknown&namespaceId=99c546c6-af5b-4812-b02d-cbc7bbb2dd99 HTTP/1.1" 200 25 196 Nacos-Java-Client:v2.1.0 -
+127.0.0.1 - - [28/Jul/2023:16:49:50 +0800] "GET /nacos/v1/ns/operator/metrics?app=unknown&namespaceId=99c546c6-af5b-4812-b02d-cbc7bbb2dd99 HTTP/1.1" 200 25 278 Nacos-Java-Client:v2.1.0 -
